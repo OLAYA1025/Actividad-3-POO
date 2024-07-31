@@ -4,7 +4,7 @@
  */
 package Interfaz;
 
-import ejecutable.TrianguloEquilatero;
+import Main.TrianguloEquilatero;
 import javax.swing.JOptionPane;
 
 /**

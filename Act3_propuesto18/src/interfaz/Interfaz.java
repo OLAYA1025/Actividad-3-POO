@@ -4,7 +4,7 @@
  */
 package interfaz;
 
-import Ejecutable.Trabajador;
+import Main.Trabajador;
 import javax.swing.JOptionPane;
 
 /**
